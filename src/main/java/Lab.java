@@ -9,7 +9,7 @@ public class Lab {
      * It doesn't matter what type of object you use.
      * If you're not feeling creative, you can use the Object class.
      *
-     * Example:
+     * Examplee:
      *      Type reference = new Type();
      *      return reference;
      *
